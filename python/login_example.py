@@ -2,6 +2,9 @@
 # Modern Graphical User Interfaces in Python - NeuralNine
 # https://www.youtube.com/watch?v=iM3kjbbKHQU
 
+# https://github.com/TomSchimansky/CustomTkinter/
+# https://github.com/TomSchimansky/CustomTkinter/tree/master/examples
+
 import customtkinter
 
 customtkinter.set_appearance_mode('dark') # system, light, dark
