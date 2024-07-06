@@ -13,11 +13,11 @@ app.title("CustomTkinter simple_example.py")
 print(type(app), isinstance(app, tkinterDnD.Tk))
 
 def button_callback():
-    print("Button click", combobox_1.get())
+	print("Button click", combobox_1.get())
 
 
 def slider_callback(value):
-    progressbar_1.set(value)
+	progressbar_1.set(value)
 
 
 frame_1 = customtkinter.CTkFrame(master=app)
